@@ -14,3 +14,67 @@
 	top: 300px;
 	left: 300px;
 }
+
+.Tamrin{
+	text-align: center;
+	color: #4B0382;
+	background: #BBBBBB;
+	
+}
+
+.Borders {
+	border: solid;
+	border-color: #5A00B1 3px;
+	margin: 30px;
+	border-radius: 15px;
+	width: 50%;
+	height: 50%;
+	margin-left: 25%;
+}
+.Borders {
+	background: #FFFFFF;
+}
+
+.News {
+	border: solid;
+	background-color: silver;
+	width: 100%;
+	height: 150px;
+	top: 200px;
+	left:20px;
+	text-align: center;
+	border-radius: 15px;
+
+}
+
+.News1 {
+	border: solid;
+	background-color: silver;
+	width: 200px;
+	height: 800px;
+	top: 200px;
+	left:20px;
+	text-align: center;
+	border-radius: 15px;
+	float: left;
+	
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.News2 {
+	border: solid;
+	background-color: silver;
+	width: 200px;
+	height: 800px;
+	bottom: 200px;
+	right:20px;
+	text-align: center;
+	border-radius: 15px;
+	float: right;
+	
+		
+}
